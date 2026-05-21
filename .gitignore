@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Build output
+desktop-app/dist/
+desktop-app/bin/neutralino-*
+
+# Neutralinojs
+.neu/
+resources.neu
+neutralinojs.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Temp
+*.tmp
+*.log
